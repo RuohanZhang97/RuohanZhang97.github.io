@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Warwick Manufacturing Group, University of Warwick, and a Visiting Scholar at the Department of Psychiatry, University of Cambridge.
+I am an Assistant Professor at the Warwick Manufacturing Group (WMG), University of Warwick, and a Visiting Scholar at the Department of Psychiatry, University of Cambridge. I am also a member of the Data Science for Mental Health (DS4MH) Group at the Alan Turing Institute. I obtained my PhD from the Department of Computer Science at the University of Warwick, working with Prof. Jianfeng Feng and Prof. Edmund Rolls.
+
+My research interests lie in applying Machine Learning (ML) and Artificial Intelligence (AI) techniques to advance healthcare, with a particular focus on developing computational methods to advance our understanding of brain health, human cognition, and broader healthcare applications. My research leverages large-scale, multi-modal datasets, such as the UK Biobank and the Human Connectome Project (HCP), etc., to gain new insights into brain health and cognitive processes.
 
 A data-driven personal website
 ======
