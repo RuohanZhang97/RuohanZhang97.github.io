@@ -29,11 +29,7 @@
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i>
-          {% if author.location_url %}
-            <a href="{{ author.location_url }}" target="_blank">{{ author.location }}</a>
-          {% else %}
-            <span itemprop="name">{{ author.location }}</span>
-          {% endif %}
+          <a href="{{ author.location_url }}" target="_blank" itemprop="name">{{ author.location }}</a>
         </li>
       {% endif %}
       
@@ -41,13 +37,10 @@
       {% if author.employer %}
         <li>
           <i class="fas fa-fw fa-university" aria-hidden="true"></i>
-          {% if author.employer_url %}
-            <a href="{{ author.employer_url }}" target="_blank">{{ author.employer }}</a>
-          {% else %}
-            {{ author.employer }}
-          {% endif %}
+          <a href="{{ author.employer_url }}" target="_blank">{{ author.employer }}</a>
         </li>
       {% endif %}
+
       
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
