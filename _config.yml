@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Ruohan Zhang"
+  name             : "Assistant Professor"
   pronouns         :  # optional
-  bio              : "Assistant Professor"
+  bio              : # optional
   employer         : "University of Warwick"
   employer_url     : "https://warwick.ac.uk/"
   location         : "UK"
