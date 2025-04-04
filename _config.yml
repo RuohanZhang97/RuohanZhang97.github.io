@@ -26,12 +26,10 @@ author:
   name             : "Dr. Ruohan Zhang"
   pronouns         :  # optional
   bio              : "Assistant Professor"
-  employer         : 
-    name           : "University of Warwick"
-    url            : "https://warwick.ac.uk/"
-  location         : 
-    name           : "University of Warwick"
-    url            : "https://www.google.com/maps/place/University+of+Warwick/@52.3792558,-1.5636591,17z/data=!3m1!4b1!4m5!3m4!1s0x48774ac696d53ee5:0xaa928d75708b2b54!8m2!3d52.3792525!4d-1.5614704"
+  employer         : "University of Warwick"
+  employer_url     : "https://warwick.ac.uk/"
+  location         : "UK"
+  location_url     : "https://www.google.com/maps/place/University+of+Warwick/@52.3792558,-1.5636591,17z/data=!3m1!4b1!4m5!3m4!1s0x48774ac696d53ee5:0xaa928d75708b2b54!8m2!3d52.3792525!4d-1.5614704"
   uri              :  # optional personal site URL
   email            : "Ruohan.Zhang.2@warwick.ac.uk"
 
@@ -49,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/RuohanZhang97"
+  github           : "RuohanZhang97"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
