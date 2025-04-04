@@ -26,15 +26,20 @@
       <!-- Font Awesome icons / Biographic information  -->
       
       <!-- Location -->
-      {% if author.location %}
-        <li class="author-inline-icon" itemprop="homeLocation" itemscope itemtype="http://schema.org/Place"><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i><a href="{{ author.location_url }}" target="_blank" itemprop="name">{{ author.location }}</a></li>
-      {% endif %}
-      
+      <li class="author-inline-icon">
+        <a href="{{ author.location_url }}" target="_blank">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}
+        </a>
+      </li>
+    
       <!-- Employer -->
       {% if author.employer %}
-        <li class="author-inline-icon"><i class="fas fa-fw fa-university" aria-hidden="true"></i><a href="{{ author.employer_url }}" target="_blank">{{ author.employer }}</a></li>
+        <li class="author-inline-icon">
+          <a href="{{ author.employer_url }}" target="_blank">
+            <i class="fas fa-fw fa-university" aria-hidden="true"></i> {{ author.employer }}
+          </a>
+        </li>
       {% endif %}
-
       
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
