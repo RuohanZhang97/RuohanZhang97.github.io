@@ -24,12 +24,16 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dr. Ruohan Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         :  # optional
   bio              : "Assistant Professor"
-  employer         : "https://warwick.ac.uk/"
-  location         : "https://www.google.com/maps/place/University+of+Warwick/@52.3792525,-1.5614704,17z/data=!3m1!4b1!4m6!3m5!1s0x48774ac696d53ee5:0xaa928d75708b2b54!8m2!3d52.3792525!4d-1.5614704!16zL20vMGdsNmY?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D"
-  uri              : # URL
-  email            : "Ruohan.Zhang.2@warwick.ac.uk" 
+  employer         : 
+    name           : "University of Warwick"
+    url            : "https://warwick.ac.uk/"
+  location         : 
+    name           : "University of Warwick"
+    url            : "https://www.google.com/maps/place/University+of+Warwick/@52.3792558,-1.5636591,17z/data=!3m1!4b1!4m5!3m4!1s0x48774ac696d53ee5:0xaa928d75708b2b54!8m2!3d52.3792525!4d-1.5614704"
+  uri              :  # optional personal site URL
+  email            : "Ruohan.Zhang.2@warwick.ac.uk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -50,7 +54,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
