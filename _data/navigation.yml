@@ -8,18 +8,18 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
 
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
-  - title: "Lab"
-    url: /lab/
+#  - title: "Lab"
+#    url: /lab/
 
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
 
-  - title: "Service"
-    url: /service/
+#  - title: "Service"
+#    url: /service/
 
