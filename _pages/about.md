@@ -15,7 +15,7 @@ My research interests lie in applying Machine Learning (ML) and Artificial Intel
 ## News
 
 **2025/02**: Initiate new research collaboration with <a href="https://istbi.fudan.edu.cn/lnen/" target="_blank">ISTBI</a> at Fudan University and the <a href="https://www.xinhuamed.com.cn/eng/" target="_blank">Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine</a> on neuroimaging and autism spectrum disorders (ASD).  
-**2025/01**: Join the <a href="https://www.turing.ac.uk/research/interest-groups/data-science-mental-health" target="_blank">Data Science for Mental Health Group</a> at the <a href="https://www.turing.ac.uk/" target="_blank">Alan Turing Institute</a>. 
+**2025/01**: Join the <a href="https://www.turing.ac.uk/research/interest-groups/data-science-mental-health" target="_blank">Data Science for Mental Health Group</a> at the <a href="https://www.turing.ac.uk/" target="_blank">Alan Turing Institute</a>.  
 **2025/01**: New paper on plasma proteomic signatures of loneliness and mortality risk published in *Nature Human Behaviour* **(IF: 22.3)**.  
 **2024/11**: Become a visiting scholar at the <a href="https://www.psychiatry.cam.ac.uk/" target="_blank">Department of Psychiatry</a>, University of Cambridge.  
 **2024/09**: Start a new role as Assistant Professor of AI in Healthcare at <a href="https://warwick.ac.uk/fac/sci/wmg/" target="_blank">WMG</a>, University of Warwick.  
