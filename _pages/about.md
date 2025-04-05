@@ -13,7 +13,7 @@ I am an Assistant Professor at the Warwick Manufacturing Group (WMG), University
 My research interests lie in applying Machine Learning (ML) and Artificial Intelligence (AI) techniques to advance healthcare, with a particular focus on developing computational methods to advance our understanding of brain health, human cognition, and broader healthcare applications. My research leverages large-scale, multi-modal datasets, such as the UK Biobank and the Human Connectome Project (HCP), etc., to gain new insights into brain health and cognitive processes.
 
 ## News
-**2025/02**: Initiate a new research collaboration with ISTBI at Fudan University and the Affiliated Xin Hua Hospital of Shanghai Jiao Tong University on neuroimaging and autism spectrum disorders (ASD).  
+**2025/02**: Initiate new research collaboration with ISTBI at Fudan University and the Affiliated Xin Hua Hospital of Shanghai Jiao Tong University on neuroimaging and autism spectrum disorders (ASD).  
 **2025/01**: Join the Data Science for Mental Health Group at the Alan Turing Institute.  
 **2025/01**: New paper on plasma proteomic signatures of loneliness and mortality risk published in *Nature Human Behaviour* (IF: 22.3).  
 **2024/11**: Become a visiting scholar at the Department of Psychiatry, University of Cambridge.  
