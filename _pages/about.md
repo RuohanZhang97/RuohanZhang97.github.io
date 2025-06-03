@@ -14,6 +14,7 @@ My research interests lie in applying Machine Learning (ML) and Artificial Intel
 
 ## News
 
+**2025/05**: Become a guest editor for <a href="https://app.jove.com/methods-collections/3904/artificial-intelligence-in-neuroscience-techniques-challenges-and-emerging-directions" target="_blank">JoVE Methods Collections on Artificial Intelligence in Neuroscience</a>.
 **2025/02**: Initiate new research collaboration with <a href="https://istbi.fudan.edu.cn/lnen/" target="_blank">ISTBI</a> at Fudan University and the <a href="https://www.shsmu.edu.cn/ylfw/fsyy1/fsxhyy.htm" target="_blank">Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine</a> on neuroimaging and autism spectrum disorders (ASD).  
 **2025/01**: Join the <a href="https://www.turing.ac.uk/research/interest-groups/data-science-mental-health" target="_blank">Data Science for Mental Health Group</a> at the <a href="https://www.turing.ac.uk/" target="_blank">Alan Turing Institute</a>.  
 **2025/01**: New paper on plasma proteomic signatures of loneliness and mortality risk published in *Nature Human Behaviour* **(IF: 22.3)**.  
