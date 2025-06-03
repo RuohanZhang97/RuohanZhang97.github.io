@@ -14,11 +14,11 @@ My research interests lie in applying Machine Learning (ML) and Artificial Intel
 
 ## News
 
-**2025/05**: Become a guest editor for <a href="https://app.jove.com/methods-collections/3904/artificial-intelligence-in-neuroscience-techniques-challenges-and-emerging-directions" target="_blank">JoVE Methods Collections on Artificial Intelligence in Neuroscience</a>.  
+**2025/05**: Become a Guest Editor for <a href="https://app.jove.com/methods-collections/3904/artificial-intelligence-in-neuroscience-techniques-challenges-and-emerging-directions" target="_blank">JoVE Methods Collections on Artificial Intelligence in Neuroscience</a>.  
 **2025/02**: Initiate new research collaboration with <a href="https://istbi.fudan.edu.cn/lnen/" target="_blank">ISTBI</a> at Fudan University and the <a href="https://www.shsmu.edu.cn/ylfw/fsyy1/fsxhyy.htm" target="_blank">Xinhua Hospital Affiliated to Shanghai Jiao Tong University School of Medicine</a> on neuroimaging and autism spectrum disorders (ASD).  
 **2025/01**: Join the <a href="https://www.turing.ac.uk/research/interest-groups/data-science-mental-health" target="_blank">Data Science for Mental Health Group</a> at the <a href="https://www.turing.ac.uk/" target="_blank">Alan Turing Institute</a>.  
 **2025/01**: New paper on plasma proteomic signatures of loneliness and mortality risk published in *Nature Human Behaviour* **(IF: 22.3)**.  
-**2024/11**: Become a visiting scholar at the <a href="https://www.psychiatry.cam.ac.uk/" target="_blank">Department of Psychiatry</a>, University of Cambridge.  
+**2024/11**: Become a Visiting Scholar at the <a href="https://www.psychiatry.cam.ac.uk/" target="_blank">Department of Psychiatry</a>, University of Cambridge.  
 **2024/09**: Start a new role as Assistant Professor of AI in Healthcare at <a href="https://warwick.ac.uk/fac/sci/wmg/" target="_blank">WMG</a>, University of Warwick.  
 **2024/09**: New paper on brain activations and connectivities related to episodic memories published in *Human Brain Mapping*.  
 **2024/07**: New paper on behavioural and physiological risk factors for suicide in the UK Biobank published in *Nature Human Behaviour* **(IF: 22.3)**.  
